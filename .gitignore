@@ -1,0 +1,3 @@
+Modules/SSASHelper/PublishToGallery.ps1
+Modules/SSASHelper/Publish/*
+SSASTestConnStr.txt
