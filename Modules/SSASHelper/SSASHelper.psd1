@@ -5,7 +5,7 @@
 RootModule = 'SSASHelper.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.0.0'
+ModuleVersion = '1.0.0.1'
 
 # ID used to uniquely identify this module
 GUID = '4dc454e9-b0d8-433b-8679-c686e59ae5c9'
@@ -14,7 +14,7 @@ GUID = '4dc454e9-b0d8-433b-8679-c686e59ae5c9'
 Author = '"DevScope"'
 
 # Company or vendor of this module
-CompanyName = 'Unknown'
+CompanyName = 'DevScope'
 
 # Copyright statement for this module
 Copyright = '(c) 2015 DevScope. All rights reserved.'
@@ -82,23 +82,23 @@ PrivateData = @{
     PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-Tags = @('ssas','powershell','analysis services')
+        Tags = @('ssas','powershell','analysisservices','azuressas','azure')
 
-# A URL to the license for this module.
-        # LicenseUri = ''
+        # A URL to the license for this module.
+             # LicenseUri = ''
 
-        # A URL to the main website for this project.
-ProjectUri = ''
+             # A URL to the main website for this project.
+        ProjectUri = ''
 
-# A URL to an icon representing this module.
-        # IconUri = ''
+        # A URL to an icon representing this module.
+                # IconUri = ''
 
-        # ReleaseNotes of this module
-        # ReleaseNotes = ''
+                # ReleaseNotes of this module
+                # ReleaseNotes = ''
 
-    } # End of PSData hashtable
+            } # End of PSData hashtable
 
-} # End of PrivateData hashtable
+        } # End of PrivateData hashtable
 
 # HelpInfo URI of this module
 # HelpInfoURI = ''
