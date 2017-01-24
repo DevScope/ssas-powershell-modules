@@ -59,7 +59,7 @@ RequiredAssemblies = @("Microsoft.AnalysisServices.AdomdClient")
 # NestedModules = @()
 
 # Functions to export from this module
-FunctionsToExport = @("Invoke-SSASCommand", "Get-SSASConnection", "Invoke-SSASProcessCommand", "Invoke-SSASCreatePartition")
+FunctionsToExport = @("Invoke-SSASCommand", "Get-SSASConnection", "Invoke-SSASProcessCommand", "Invoke-SSASCreatePartition", "Set-AzureASState")
 
 # Cmdlets to export from this module
 CmdletsToExport = @()
