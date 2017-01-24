@@ -53,7 +53,7 @@ Set-AzureASState `
 	-SubscriptionId "YourSubsciptionId" `
 	-action "suspend"
 
-# Full tutorial on https://devscopebi.wordpress.com/2016/12/14/automate-azure-analysis-services-pauseresume-using-powershell/
+Full tutorial on https://devscopebi.wordpress.com/2016/12/14/automate-azure-analysis-services-pauseresume-using-powershell/
 
 ```
 
