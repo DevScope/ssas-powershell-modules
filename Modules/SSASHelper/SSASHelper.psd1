@@ -5,7 +5,7 @@
 RootModule = 'SSASHelper.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.0.1'
+ModuleVersion = '1.0.0.2'
 
 # ID used to uniquely identify this module
 GUID = '4dc454e9-b0d8-433b-8679-c686e59ae5c9'
@@ -20,7 +20,7 @@ CompanyName = 'DevScope'
 Copyright = '(c) 2015 DevScope. All rights reserved.'
 
 # Description of the functionality provided by this module
-Description = 'TODO'
+Description = 'A single lightweight PowerShell module with cmdlets to manage SSAS Instances (On-Prem. or Azure)'
 
 # Minimum version of the Windows PowerShell engine required by this module
 # PowerShellVersion = ''

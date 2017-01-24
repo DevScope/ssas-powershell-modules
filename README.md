@@ -2,6 +2,16 @@
 A single lightweight powershell module with cmdlets to manage SSAS Instances (On-Prem or Azure)
 Complete samples provided with the modules!
 
+##Install Module from PowerShell Gallery
+
+```powershell
+# In a Admin PowerShell console
+Install-Module SSASHelper
+
+Invoke-SSASCommand ...
+
+```
+
 ##(Re)Create Partitions
 
 ```powershell
