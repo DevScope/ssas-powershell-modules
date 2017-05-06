@@ -44,7 +44,7 @@ Description = 'A single lightweight PowerShell module with cmdlets to manage SSA
 # RequiredModules = @()
 
 # Assemblies that must be loaded prior to importing this module
-RequiredAssemblies = @("Microsoft.AnalysisServices.AdomdClient")
+RequiredAssemblies = @(".\Microsoft.AnalysisServices.AdomdClient.dll")
 
 # Script files (.ps1) that are run in the caller's environment prior to importing this module.
 # ScriptsToProcess = @()
